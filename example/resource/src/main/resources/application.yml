@@ -12,3 +12,5 @@ spring.security.oauth2.resourceServer:
   jwt:
     issuerUri: http://auth.hiauth.cn
     jwkSetUri: ${spring.security.oauth2.resourceServer.jwt.issuerUri}/oauth2/jwks
+
+# Update: 2025-10-16
